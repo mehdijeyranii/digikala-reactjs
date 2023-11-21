@@ -1,0 +1,13 @@
+@import './fonts/IRANYekanFN.css';
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+}
+
+body{
+    font-family: 'IRANYekanFN';
+}
